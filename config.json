@@ -1,0 +1,11 @@
+{
+    "owners": ["https://taisukef.github.io/solid-plume/"],
+    "title": "Plume",
+    "tagline": "my blog on Solid",
+    "picture": "img/logo.svg",
+    "fadeText": true,
+    "showSources": true,
+    "cacheUnit": "days",
+    "defaultPath": "posts",
+    "postsURL": "https://taisukef.solid.community/public/blog/"
+}
